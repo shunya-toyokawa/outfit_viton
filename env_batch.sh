@@ -1,6 +1,6 @@
 #!bin/bash 
 
-apt update && apt upgrade  -y && apt install vim git curl gcc g++ curl wget 
+apt update && apt upgrade  -y && apt install  vim git curl gcc g++ curl wget -y
 
 
 cd outfit_viton
