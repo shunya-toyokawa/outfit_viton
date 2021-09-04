@@ -7,6 +7,11 @@
 docker run -it -v ~/:/work continuumio/anaconda3 /bin/bash
 ```
 ```
+conda create -n <NAME> python=3.7
+```
+
+
+```
 cd work/
 ```
 ## cloning
